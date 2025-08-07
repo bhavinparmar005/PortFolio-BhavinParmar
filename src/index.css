@@ -8,4 +8,12 @@
   padding: 0;
   box-sizing: border-box;
   font-family: bhavin;
+  color: wheat;
+}
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color:#131312;
 }
